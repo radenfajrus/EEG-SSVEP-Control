@@ -15,5 +15,5 @@ Basically, Thats none of my bussiness. lol.  as long as its detect better eeg si
 
 The program inspired from many sources, check for more detail in the source
 1. Matlab
-2. https://gith*ub.com/mahdan*ahmad/py-emo*kit
-3. cours*era : https://gith*ub.com/MT*G/sm*s-too*ls
+2. https://gith**ub.com/mahdan**ahmad/py-emo**kit
+3. cours**era : https://gith**ub.com/MT*G/sm**s-too**ls

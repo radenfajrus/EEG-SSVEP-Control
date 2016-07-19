@@ -5,7 +5,7 @@ where the flickering frequency is specified at 10Hz and 12 Hz.
 
 10Hz just for SSVEP detection, and 12Hz for closed eye (rilex) detection.
 These 2 frequencies (maybe) could increase the confidence when installing the electrode.
-But,  it just happen on Occipital and Parietal area. (maybe create eye blink for Frontal Calibration)
+But,  it just happen on Occipital and Parietal area. (maybe create eye blink for Frontal Calibration later)
 The method is CCA (Canonical Correlation Analysis), its just based on correlation.
 So when the correlation value show good behavior, it means signals could be transformed into another subspace with less noisier one
 Sometimes, just need 2 worked electodes of 4, to get good correlation value. Then the other 2, in fact, bad and full of noise.

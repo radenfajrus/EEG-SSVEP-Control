@@ -1,4 +1,4 @@
-# Dumping my bachelor thesis here
+# Dumping my bachelor thesis here 
 
 ## Program to Control Robot using Brain Signal (EEG)
 

@@ -17,4 +17,4 @@ https://github.com/mahdanahmad/py-emo||kit
 https://github.com/MTG/sms-tools  
 
 
-This was developed together with parner : https://github.com/aldofadhila027
+This was developed together with partner : https://github.com/aldofadhila027

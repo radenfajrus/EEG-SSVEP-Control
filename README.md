@@ -12,6 +12,9 @@ Calculate EEG signal data with CCA (Canonical Correlation Analysis). If the diff
 
 The program inspired from many sources, check for more detail in the source
 
-Matlab
-https://gith||ub.com/mahda||nahmad/py-emo||kit
-cours||era : https://gith||ub.com/MT||G/sm~~s-too||ls
+Matlab  
+https://github.com/mahdanahmad/py-emo||kit  
+https://github.com/MTG/sms-tools  
+
+
+This was developed together with parner : https://github.com/aldofadhila027
